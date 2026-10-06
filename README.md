@@ -6,20 +6,29 @@ I enjoy working with data, building applications, and using technology to turn i
 
 ## 🛠️ Skills & Technologies
 
+Experience gained through coursework and personal projects.
+
 **Programming & Data**
+
 - Python
 - SQL
 - R
 - JavaScript
 
 **Data Analysis & Visualization**
+
 - Pandas
 - NumPy
+- dplyr
+- tidyr
+- ggplot2
 - Matplotlib
 - Tableau
 - Excel
+- Power Query
 
 **Web & Development**
+
 - HTML
 - CSS
 - Git
